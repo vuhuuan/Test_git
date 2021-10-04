@@ -21,6 +21,7 @@ void print_arr(bool arr[], ull n)
         }
     }
 }
+"first time"
 
 void set_prime(bool arr[], ull n)
 {
@@ -49,3 +50,8 @@ int main()
     print_arr(arr,n);
     return 0;
 }
+<<<<<<< HEAD
+=======
+
+//niceworking!
+>>>>>>> 6b92d4959cbd85e292033f15cec49cb20bc6f5e2
