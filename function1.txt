@@ -1,3 +1,6 @@
 Giả vờ là người khác để commit cùng. <Đã pull thành công>
 Tôi chỉ muốn commit function 1 thôi.
+<<<<<<< HEAD
 Wow, tôi chả biết có đứa nào đã sửa trên github chưa, kệ, tôi cứ làm tiếp.
+Ối có conflict, nhưng tôi đã vào fix nó rồi. Xóa cái mà nó khác đi là xong.
+
