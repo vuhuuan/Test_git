@@ -1,1 +1,2 @@
-Giả vờ là người khác để commit cùng.
+Giả vờ là người khác để commit cùng. <Đã pull thành công>
+
